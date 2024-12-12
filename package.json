@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s01u1rs",
+  "description": "https://scrimba.com/s01u1rs/s08hdu3u7b/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
